@@ -7,8 +7,8 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # В этом модули находится ключ в переменной YOUR_TOKEN
-# YOUR_TOKEN = "строка-токен"
-from security import YOUR_TOKEN
+YOUR_TOKEN = "1151106633:AAF-6XwoQkTodY9TprvQkY2bmMptUd44d7w"
+# from security import YOUR_TOKEN
 # Модуль с настройками
 import config
 import game_session
